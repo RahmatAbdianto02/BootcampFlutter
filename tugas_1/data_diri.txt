@@ -2,3 +2,5 @@ Nama          : Rahmat Abdianto
 Email         : contohEmail@gmail.com
 Telegram akun : @RahmatAbdianto
 Phone         : 082323778232
+Status        : Mahasiswa
+Alamat        : Sulteng
